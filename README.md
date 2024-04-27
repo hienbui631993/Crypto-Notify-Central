@@ -66,20 +66,20 @@ No need to reinvent a wheel.
 
 ### DeFi Notify Bot
 
-[Website](https://www.cryptonotifycentral.com/definotify-bot/)
-[Telegram](https://t.me/DefinotificationBot)
-[DeFi Notify (explained in 1 minute) - Youtube video](https://www.youtube.com/watch?v=4cGXJNmteVU)
+- [Website](https://www.cryptonotifycentral.com/definotify-bot/)
+- [Telegram](https://t.me/DefinotificationBot)
+- [DeFi Notify (explained in 1 minute) - Youtube video](https://www.youtube.com/watch?v=4cGXJNmteVU)
 
 ### CexNotify Bot
 
-[Website](https://www.cryptonotifycentral.com/leveraging-your-crypto-assets-a-guide-to-binance-crypto-loans-and-managing-risks-with-cexnotify/)
-[Telegram](https://t.me/CexnotificationBot)
+- [Website](https://www.cryptonotifycentral.com/leveraging-your-crypto-assets-a-guide-to-binance-crypto-loans-and-managing-risks-with-cexnotify/)
+- [Telegram](https://t.me/CexnotificationBot)
 
 ### Useful links
 
 - The original [website](http://definotify.net)
-- The official [website] (http://cryptonotifycentral.com/) (ongoing development)
-- The [DefiNotification Channel](https://t.me/definotifychannel):  
+- The official [website](http://cryptonotifycentral.com/) (ongoing development)
+- The [DefiNotification Channel](https://t.me/definotifychannel)
 - [YouTube channel](https://www.youtube.com/@cryptopnotifycentral)
 - [Twitter](https://twitter.com/DefiNotify)
 
