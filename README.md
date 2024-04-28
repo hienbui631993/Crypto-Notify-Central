@@ -5,9 +5,9 @@
 ## Crypto Notify Central
 
 - [Overview](#overview)
-- [How was it created?](#how-was-it-created?)
+- [How was it created?](#how-was-it-created)
 - [Our services](#our-services)
-- [Why Telegram?](#why-telegram?)
+- [Why Telegram?](#why-telegram)
 - [How Our Telegram Bots Work](#how-our-telegram-bots-work)
 - [DeFi Notify Bot](#defi-notify-bot)
 - [CexNotify Bot](#cexnotify-bot)
@@ -15,23 +15,19 @@
 - [Key Features](#key-features)
 - [Useful links](#useful-links)
 
+
 ### Overview
 
 A collection of services that empowers crypto investments.
-
 Highly beneficial for crypto investors utilizing loan services such as margin and futures trading, as well as borrowing assets on any lending platforms.
-
-Our services will be used for both Centralized Finance (Cefi) and Decentralized Finance (Defi)
+Our services will be used for both Centralized Finance (Cefi) and Decentralized Finance (Defi) 
 
 
 ### How was it created?
 
 Crypto Notify Central (formerly Definotify) was developed for my individual purpose since I have been actively borrowing assets on Venus.io - my favourite lending protocol.
-
 Proactively monitor Borrow Limit/Health Factor on these protocols, crucial for preventing liquidation risk.
-
 High demand from crypto investors who wanted to have a similar service like mine.
-
 Highly potential and profitable opportunity to turn my personal project into a commercial software.
 
 
@@ -39,8 +35,7 @@ Highly potential and profitable opportunity to turn my personal project into a c
 
 Monitoring and Notifying:
 
-* Lending positions on permissionless lending platforms such as Venus, Compound, AAVE, etc…
-
+- Lending positions on permissionless lending platforms such as Venus, Compound, AAVE, etc…
 - Margin and futures trading positions (liquidation threshold + current profit) on both  Centralized & Decentralized Exchanges
 - Other services: price alert, whale alert (onchain monitor, arbitrage opportunities).
 
